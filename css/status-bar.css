@@ -18,6 +18,6 @@
   justify-content: flex-end;
   align-items: center;
 }
-.status-bar__column .fa-battery-quarter fa-lg {
+.status-bar__column .fa-battery-quarter {
   margin: 0px 5px;
 }
